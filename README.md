@@ -1,3 +1,4 @@
+![image](https://user-images.githubusercontent.com/34658474/173929672-06b7920b-d533-4480-947f-bfebc50c931e.png)
 # gtk4-adwaita-maia-dark
 
 ## What does it do?
