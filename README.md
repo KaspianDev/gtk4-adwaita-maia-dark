@@ -15,3 +15,9 @@ And of course let flatpak access your .theme folder.
 ```
 sudo flatpak override --filesystem=$HOME/.themes
 ```
+You also need the compact version of dark adwaita maia instaled (it is installed by default on manjaro).
+
+## Credit
+
+All the credit goes to GNOME for adw-dark theme and [Manjaro team](https://gitlab.manjaro.org/packages/community/themes/adwaita-maia).
+This theme originally comes from [libadwaita](https://gnome.pages.gitlab.gnome.org/libadwaita/).
